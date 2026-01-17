@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-y3f2rtva"",
-  ""goal"": ""batch normalizer for release notes"",
-  ""language"": ""python"",
-  ""template"": ""python-cli""
+    "name":  "rndproj-y3f2rtva",
+    "goal":  "batch normalizer for release notes",
+    "language":  "python",
+    "template":  "python-cli"
 }
